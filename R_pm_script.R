@@ -1,1 +1,0 @@
-##  This is a test script for SWC at SAMSI
